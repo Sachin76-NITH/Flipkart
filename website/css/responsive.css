@@ -1,0 +1,36 @@
+@media screen and (max-width: 1307px)
+{
+
+    nav
+    { display: flex;
+        flex-direction: column;}
+    header
+    {
+        height: 300px;
+    } 
+     nav ul 
+    {
+        justify-content: center;
+    }
+
+    .logo
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 12px 12px;
+
+    }
+    
+}
+ 
+
+/* @media screen and (max-width: 572px)
+{
+header
+{ width:572px;}
+     
+
+
+
+} */
